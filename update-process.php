@@ -2,18 +2,18 @@
  <h2 style="color: darkred;">Update</h2>
  <link rel="stylesheet" href="style.css">
 </head>
-<a href="http://localhost/project/index.php">
+<a href="https://projectinsert.herokuapp.com/">
     <button>Home</button>
     </a>
     
-	<a href="http://localhost/project/retrieve.php">
+	<a href="https://projectvieww.herokuapp.com/">
     <button>Retrieve</button>
     </a>
 
-	<a href="http://localhost/project/update.php">
+	<a href="https://projectupdates.herokuapp.com/">
     <button>Update</button>
     </a>
-	<a href="http://localhost/project/delete.php">
+	<a href="https://projectdelete.herokuapp.com/">
     <button>Delete</button>
     </a>
     <br><br>
